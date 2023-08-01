@@ -1,5 +1,7 @@
 # Instagram Clone (instagram-clone)
 
+Vue JS, Tailwind CSS, Laravel, Inertia
+
 ## App Setup
 
 composer install 
